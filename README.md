@@ -1,6 +1,6 @@
 # Show your computer desktop as an Amazon Echo Smart Home Security Camera
 
-These are source files associated with my *Your computer screen as an Alexa Smart Home Security Camera* screencast.
+These are source files associated with my [Your computer screen as an Alexa Smart Home Security Camera screencast](https://damian.fyi/2017/11/05/computer-desktop-as-alexa-security-cam/).
 
 Assuming the desktop whose stream your want to stream is called *desktop.lan*, and the Ubuntu Server running Docker is called *your.dockerhostcomputer.com* (domain name registered in DNS with your computer's private address)
 
