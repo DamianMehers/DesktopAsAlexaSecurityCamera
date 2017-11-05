@@ -48,7 +48,7 @@ namespace HomeCamLambda {
         Payload = new Payload {
           CameraStreams = new List<CameraStream> {
             new CameraStream {
-              Uri = "rtsp://macbookairubuntu.1l.io:443/h264",
+              Uri = "rtsp://your.dockerhostcomputer.com:443/h264",
               ExpirationTime = DateTime.UtcNow.AddDays(1),
               IdleTimeoutSeconds = 30,
               Protocol = "RTSP",
