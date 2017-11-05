@@ -1,5 +1,4 @@
-# DesktopAsAlexaSecurityCamera
-Show your computer desktop as an Amazon Echo Smart Home Security Camera
+# Show your computer desktop as an Amazon Echo Smart Home Security Camera
 
 These are source files associated with my *Your computer screen as an Alexa Smart Home Security Camera* screencast.
 
